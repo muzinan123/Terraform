@@ -1,0 +1,9 @@
+access_key=""
+secret_key=""
+region=""
+create=true
+name="ecs-eip"
+bandwidth=5
+internet_charge_type="PayByTraffic"
+payment_type=""
+period=1
